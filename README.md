@@ -1,4 +1,4 @@
-npm run nodemon to begin server
+# 'npm run nodemon' to begin server
 
 
 # Insights Service
